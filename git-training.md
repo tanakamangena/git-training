@@ -2,11 +2,14 @@
 Covering the basics
 
 -[x] What is Git
--[x] Git Introduction
+-[gitx] Git Introduction
 -[x] Git add
 -[x] Git commit
 -[] Git branch
 -[] Git push
 -[] Git log
 -[] Github
--[] Github Desktop
+
+
+New paragraph
+-[x] Added New Paragraph in branch
